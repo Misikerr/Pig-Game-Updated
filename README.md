@@ -1,59 +1,74 @@
-# 🎲 Pig Game (Player vs AI)
+# 🎲 Pig Game - AI Enhanced Edition
 
-This is an updated version of the classic **Pig Game**, originally a two-player dice game. In this version, you play against a simple AI opponent with added animations and a better user experience.
+This is a **modernized version** of the classic Pig Dice Game originally developed by [Jonas Schmedtmann](https://pig-game-v2.netlify.app/).
+While the original game is designed for two human players,
+this updated version adds **AI gameplay**, **dice animations**,
+and an improved interactive experience.
 
-## 🚀 What's New in This Version
+🔗 [Original Game](https://pig-game-v2.netlify.app/)  
+🔗 [My Updated Version (Player vs AI)](https://misikerr.github.io/Pig-Game-Updated/)
 
-✅ Converted the game from **2-player mode** to **Player vs AI**  
-✅ Added **dice roll animation** for a smoother visual experience  
-✅ Improved **game flow and interactivity** using JavaScript  
-✅ Added sound effects for roll, hold, and win  
-✅ Enhanced design and responsiveness  
+---
+
+## 🚀 What’s New in This Version
+
+### ✅ Player vs AI Mode
+- The second player is now an AI with a basic strategy.
+- The AI decides whether to roll or hold, simulating a competitive opponent.
+
+### 🎲 Dice Animation
+- Smooth animations are added each time the dice is rolled.
+- Visually engaging transitions enhance user experience.
+
+### 🎨 UI and Interaction Improvements
+- Responsive layout and design.
+- Smooth game flow with animations and logic feedback.
+- Sound effects added for dice rolls, holds, and victory.
+
+---
+
+## 🧠 Original Game Features (by Jonas Schmedtmann)
+
+- Turn-based 2-player dice game.
+- Roll dice and hold to accumulate points.
+- Lose turn on rolling a 1.
+- First to reach 100 points wins.
+
+---
+
+## 🎯 My Added Features
+
+| Feature               | Description                                         |
+|----------------------|-----------------------------------------------------|
+| 🤖 AI Opponent        | You now play against a computer player.             |
+| 🌀 Dice Animation     | Adds motion to rolling dice for visual appeal.     |
+| 🔊 Sound Effects      | Interactive sound effects for better feedback.     |
+| 🛠️ Code Refactor      | Cleaned and optimized JavaScript logic.            |
+| 📱 Responsive Design  | Works well on both desktop and mobile devices.     |
 
 ---
 
 ## 🕹️ How to Play
 
-- Click **Roll Dice** to roll a number from 1 to 6.
-- If you roll a 1, your current turn score is lost, and the turn goes to the AI.
-- Click **Hold** to save your current score and pass the turn to the AI.
-- The AI automatically rolls and holds based on a simple strategy.
-- First to reach the target score (default is 100) wins!
+1. Click **Roll Dice** to roll.
+2. If you roll anything other than 1, the number is added to your current score.
+3. Click **Hold** to save your score and end your turn.
+4. The AI will take its turn automatically.
+5. First to reach 100 points wins!
 
 ---
 
-## 🧠 Features
+## 📦 Installation (Local Setup)
 
-- 🎮 Player vs AI gameplay
-- 🎲 Dice rolling animation
-- 🔊 Sound effects for actions
-- 📱 Responsive UI
-- 🏆 Modal popup for game over
-
----
-
-## 📁 Folder Structure
-
-Pig-Game-Updated/ ├── index.html ├── style.css ├── script.js ├── images/ │ └── dice-1.png to dice-6.png ├── audio/ │ └── roll.mp3, hold.mp3, gameover.mp3 └── README.md
-
-yaml
-Copy code
-
----
-
-## 🖥️ How to Run Locally
-
-1. Clone the repository:
-
-```bash
 git clone https://github.com/Misikerr/Pig-Game-Updated.git
 cd Pig-Game-Updated
-Open index.html in your browser.
+# Open index.html in your browser
 
-🌐 Live Demo
-🔗 View Demo on GitHub Pages (if published)
+---
+🙌 Credits
+Original Project by Jonas Schmedtmann
 
-🙏 Credits
-Original game logic inspired by Jonas Schmedtmann's Pig Game
+Updated Version (Player vs AI + Enhancements) by @Misikerr
 
-Updated to Player vs AI mode by @Misikerr
+📜 License
+This project is open source and available under the MIT License.
