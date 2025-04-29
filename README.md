@@ -67,6 +67,7 @@ Open index.html in your browser
 ---
 🙌 Credits
 Original Project by Jonas Schmedtmann
+
 Updated Version (Player vs AI + Enhancements) by @Misikerr
 
 📜 License
