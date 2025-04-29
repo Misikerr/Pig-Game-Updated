@@ -62,12 +62,11 @@ and an improved interactive experience.
 
 git clone https://github.com/Misikerr/Pig-Game-Updated.git
 cd Pig-Game-Updated
-# Open index.html in your browser
+Open index.html in your browser
 
 ---
 🙌 Credits
 Original Project by Jonas Schmedtmann
-
 Updated Version (Player vs AI + Enhancements) by @Misikerr
 
 📜 License
