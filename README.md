@@ -1,6 +1,6 @@
 # 🎲 Pig Game - AI Enhanced Edition
 
-This is a **modernized version** of the classic Pig Dice Game originally developed by [Jonas Schmedtmann](https://pig-game-v2.netlify.app/).
+This is a **modernized version** of the classic Pig Dice Game originally developed by [Jonas Schmedtmann](https://github.com/jonasschmedtmann).
 While the original game is designed for two human players,
 this updated version adds **AI gameplay**, **dice animations**,
 and an improved interactive experience.
@@ -68,7 +68,7 @@ Open index.html in your browser
 🙌 Credits
 Original Project by Jonas Schmedtmann
 
-Updated Version (Player vs AI + Enhancements) by @Misikerr
+Updated Version (Player vs AI + Enhancements) by [@Misikerr](https://github.com/misikerr)
 
 📜 License
 This project is open source and available under the MIT License.
