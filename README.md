@@ -61,6 +61,7 @@ and an improved interactive experience.
 ## 📦 Installation (Local Setup)
 
 git clone https://github.com/Misikerr/Pig-Game-Updated.git
+
 cd Pig-Game-Updated
 Open index.html in your browser
 
