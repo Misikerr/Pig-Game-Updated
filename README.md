@@ -63,6 +63,7 @@ and an improved interactive experience.
 git clone https://github.com/Misikerr/Pig-Game-Updated.git
 
 cd Pig-Game-Updated
+
 Open index.html in your browser
 
 ---
